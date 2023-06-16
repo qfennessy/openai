@@ -3,3 +3,5 @@ opeanai
 asyncio
 langchain
 streamlit
+torch
+numpy
